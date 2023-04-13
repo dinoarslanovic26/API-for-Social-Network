@@ -14,6 +14,8 @@
 
   ## Installation
   Clone this repo, Once the repo is open go into the root file and open the terminal. Type in `npm i` and all your dependencies will download.
+  
+  There will be a tutorial for this repo coming soon.
 
   ## Usage
 
